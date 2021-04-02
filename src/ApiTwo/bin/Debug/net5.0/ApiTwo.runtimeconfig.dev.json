@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Gizelle\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Gizelle\\.nuget\\packages"
+    ]
+  }
+}
