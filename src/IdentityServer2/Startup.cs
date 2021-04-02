@@ -70,8 +70,8 @@ namespace IdentityServer2
                 .AddGoogle("Google", options =>
                 {
                    
-                    options.ClientId = "783037398077-p9bttsb2cahm951sm805tdr0qbnl2k55.apps.googleusercontent.com";
-                    options.ClientSecret = "ySRs4tkg9-O07EFKXUb0zPWZ";
+                    options.ClientId = "client_id";
+                    options.ClientSecret = "client_secret";
                 });
             
             services.AddControllersWithViews();
